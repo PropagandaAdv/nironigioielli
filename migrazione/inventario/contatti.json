@@ -1,0 +1,28 @@
+{
+ "id": 298,
+ "slug": "contatti",
+ "link": "https://www.nironigioielli.it/contatti/",
+ "parent": 0,
+ "menu_order": 4,
+ "title": "Contatti",
+ "seo_title": "Contatti | Nironi Gioielli",
+ "seo_description": "Contatti Informazioni 0522 654273 info@nironigioielli.it Via Gonzaga, 1 - 42017 Novellara (RE)",
+ "sections": 3,
+ "rows": 3,
+ "elements": {
+  "vc_section": 3,
+  "vc_row": 3,
+  "vc_column": 4,
+  "vc_column_text": 2,
+  "vc_single_image": 2,
+  "vc_gmaps": 1
+ },
+ "headings": [
+  "Contatti",
+  "Informazioni"
+ ],
+ "images_in_source": [],
+ "internal_links": [],
+ "raw_source_len": 3980,
+ "rendered_page_ok": true
+}

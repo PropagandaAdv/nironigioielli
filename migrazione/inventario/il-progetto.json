@@ -1,0 +1,31 @@
+{
+ "id": 76,
+ "slug": "il-progetto",
+ "link": "https://www.nironigioielli.it/il-progetto/",
+ "parent": 0,
+ "menu_order": 10,
+ "title": "Il Progetto",
+ "seo_title": "Il Progetto | Nironi Gioielli",
+ "seo_description": "Il progetto La Gioielleria Nironi è una realtà commerciale a gestione familiare inserita nel cuore del paese di Novellara (circa 15.000 abitanti), in provin ...",
+ "sections": 3,
+ "rows": 4,
+ "elements": {
+  "vc_section": 3,
+  "vc_row": 4,
+  "vc_column": 7,
+  "vc_column_text": 5,
+  "vc_single_image": 1,
+  "vc_empty_space": 1
+ },
+ "headings": [
+  "Il progetto",
+  "RIQUALIFICAZIONE ARREDI GIOIELLERIA NIRONI FINANZIATO CON I FONDI POR FESR",
+  "Dove ci trovi?"
+ ],
+ "images_in_source": [
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/dove-bg-scaled.jpg"
+ ],
+ "internal_links": [],
+ "raw_source_len": 4844,
+ "rendered_page_ok": true
+}

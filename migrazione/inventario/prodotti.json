@@ -1,0 +1,42 @@
+{
+ "id": 234,
+ "slug": "prodotti",
+ "link": "https://www.nironigioielli.it/prodotti/",
+ "parent": 0,
+ "menu_order": 3,
+ "title": "Prodotti",
+ "seo_title": "Prodotti | Nironi Gioielli",
+ "seo_description": "Prodotti",
+ "sections": 1,
+ "rows": 2,
+ "elements": {
+  "vc_section": 1,
+  "vc_row": 2,
+  "vc_column": 2,
+  "vc_column_text": 1
+ },
+ "headings": [
+  "Prodotti",
+  "Orologi",
+  "Bracciali",
+  "Collane",
+  "Orecchini",
+  "Anelli"
+ ],
+ "images_in_source": [
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/anelli.png",
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/bracciali.png",
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/collane.png",
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/orecchini.png",
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/orologi.png"
+ ],
+ "internal_links": [
+  "https://www.nironigioielli.it/prodotto/anelli/",
+  "https://www.nironigioielli.it/prodotto/bracciali/",
+  "https://www.nironigioielli.it/prodotto/collane/",
+  "https://www.nironigioielli.it/prodotto/orecchini/",
+  "https://www.nironigioielli.it/prodotto/orologi/"
+ ],
+ "raw_source_len": 17783,
+ "rendered_page_ok": true
+}

@@ -1,0 +1,31 @@
+{
+ "id": 232,
+ "slug": "chi-siamo",
+ "link": "https://www.nironigioielli.it/chi-siamo/",
+ "parent": 0,
+ "menu_order": 1,
+ "title": "Chi siamo",
+ "seo_title": "Chi siamo | Nironi Gioielli",
+ "seo_description": "Chi siamo Gioielli unici nel cuore del centro storico di Novellara  L’esperienza di 3 generazioni della famiglia Nironi si intreccia ogni giorno in ad un’of ...",
+ "sections": 4,
+ "rows": 6,
+ "elements": {
+  "vc_section": 4,
+  "vc_row": 6,
+  "vc_column": 10,
+  "vc_column_text": 11,
+  "vc_single_image": 6
+ },
+ "headings": [
+  "Chi siamo",
+  "Gioielli unici nel cuore del centro storico di Novellara",
+  "I nostri valori",
+  "Dove ci trovi?"
+ ],
+ "images_in_source": [
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/dove-bg-scaled.jpg"
+ ],
+ "internal_links": [],
+ "raw_source_len": 4560,
+ "rendered_page_ok": true
+}

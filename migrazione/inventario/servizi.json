@@ -1,0 +1,33 @@
+{
+ "id": 274,
+ "slug": "servizi",
+ "link": "https://www.nironigioielli.it/servizi/",
+ "parent": 0,
+ "menu_order": 2,
+ "title": "Servizi",
+ "seo_title": "Servizi | Nironi Gioielli",
+ "seo_description": "Servizi Riparazioni Doniamo nuova vita ai preziosi dei nostri clienti grazie alla riparazione di gioielli con e senza pietre. Inoltre, ci occupiamo della re ...",
+ "sections": 4,
+ "rows": 5,
+ "elements": {
+  "vc_section": 4,
+  "vc_row": 5,
+  "vc_column": 7,
+  "vc_column_text": 11,
+  "vc_single_image": 8
+ },
+ "headings": [
+  "Servizi",
+  "Riparazioni",
+  "Compro oro",
+  "Creazione da disegno",
+  "Perizie",
+  "Dove ci trovi?"
+ ],
+ "images_in_source": [
+  "https://www.nironigioielli.it/wp-content/uploads/2022/03/dove-bg-scaled.jpg"
+ ],
+ "internal_links": [],
+ "raw_source_len": 5221,
+ "rendered_page_ok": true
+}
