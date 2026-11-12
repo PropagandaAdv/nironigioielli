@@ -1,0 +1,22 @@
+<p>[vc_section][vc_row][vc_column el_class="pb-5"][vc_column_text]</p>
+<h1 style="text-align: center;">Chi siamo</h1>
+<p>[/vc_column_text][/vc_column][/vc_row][/vc_section][vc_section full_width="stretch_row" css=".vc_custom_1647530479441{background-color: #f7f7f7 !important;}" el_class="pb-3"][vc_row equal_height="yes" content_placement="middle" el_class="py-5"][vc_column width="1/2" css=".vc_custom_1647531301790{padding: 0px !important;}"][vc_single_image image="491" img_size="600x600" alignment="right" image_hovers="false"][/vc_column][vc_column width="1/2" css=".vc_custom_1647529426394{background-color: #ffffff !important;}"][vc_column_text el_class="px-5"]</p>
+<h3 style="color: #9a8e75;"><span class="TextRun SCXW212041528 BCX0" lang="IT-IT" xml:lang="IT-IT" data-contrast="auto"><strong><span class="NormalTextRun SCXW212041528 BCX0">Gioielli</span></strong><span class="NormalTextRun SCXW212041528 BCX0"><strong> unici</strong> nel cuore del centro storico di Novellara</span></span><span class="EOP SCXW212041528 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></h3>
+<p>[/vc_column_text][vc_single_image image="151" img_size="medium" image_hovers="false" el_class="img-divider px-5 py-4"][vc_column_text el_class="px-5 pb-5"]<span class="TextRun SCXW163402835 BCX0" lang="IT-IT" xml:lang="IT-IT" data-contrast="auto"><span class="NormalTextRun SCXW163402835 BCX0">L’esperienza di <strong>3 generazioni</strong> della famiglia Nironi si intreccia ogni giorno in ad un<strong>’offerta completa e raffinata di preziosi.</strong> Inoltre, grazie al laboratorio specializzato, gioielli e orologi riprendono vita con <strong>riparazioni</strong> su tutti i marchi, modelli e metalli.</span></span><span class="EOP SCXW163402835 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>[/vc_column_text][/vc_column][/vc_row][vc_row el_class="pt-5 pb-3"][vc_column el_class="pt-5 pb-4"][vc_column_text el_class="pb-3"]</p>
+<h2 style="text-align: center;">I nostri valori</h2>
+<p>[/vc_column_text][vc_column_text]</p>
+<p style="text-align: center;">Quello che da sempre ci contraddistingue è:</p>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row el_class="pt-4 pb-5 mb-5"][vc_column width="1/4"][vc_single_image image="469" alignment="center" image_hovers="false" el_class="pb-4"][vc_column_text el_class="pb-5"]</p>
+<p style="text-align: center;">Professionalità</p>
+<p>[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="470" alignment="center" image_hovers="false" el_class="pb-4"][vc_column_text el_class="pb-5"]</p>
+<p style="text-align: center;">Rapidità</p>
+<p>[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="471" alignment="center" image_hovers="false" el_class="pb-4"][vc_column_text el_class="pb-5"]</p>
+<p style="text-align: center;">Affidabilità</p>
+<p>[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image image="472" alignment="center" image_hovers="false" el_class="pb-4"][vc_column_text el_class="pb-5"]</p>
+<p style="text-align: center;">Esperienza</p>
+<p>[/vc_column_text][/vc_column][/vc_row][/vc_section][vc_section][vc_row][vc_column]<p>[vc_section full_width="stretch_row" css=".vc_custom_1647530414450{margin-top: -40px !important;background-image: url(https://www.nironigioielli.it/wp-content/uploads/2022/03/dove-bg-scaled.jpg?id=251) !important;}"][vc_row el_class="py-5"][vc_column el_class="py-5 mb-5 mt-3"][vc_column_text]</p>
+<h3 class="text-white">Dove ci trovi?</h3>
+<p>[/vc_column_text][vc_column_text el_class="py-3"]</p>
+<p class="text-white">Scopri il nostro negozio o contattaci.</p>
+<p>[/vc_column_text]<a href="/contatti" class="default-btn-shortcode dt-btn dt-btn-m link-hover-off btn-txt-wht btn-inline-left " id="default-btn-1afe8aaca755ecc3dabfcfb0024edd39" title="Contatti"><span>Scopri</span></a>[/vc_column][/vc_row][/vc_section]</p>
+[/vc_column][/vc_row][/vc_section]</p>

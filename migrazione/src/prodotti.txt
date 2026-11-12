@@ -1,0 +1,123 @@
+<p>[vc_section][vc_row][vc_column][vc_column_text]</p>
+<h1 style="text-align: center;">Prodotti</h1>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row el_class="prodotti-list"][vc_column el_class="products-col"]<div class="articles-list blog-shortcode mode-list blog-list-shortcode-id-53527d3e77c0a89110223bf421da41b6 side-overlap-layout-list jquery-filter dt-icon-bg-off loading-effect-fade-in" data-cur-page="1" data-post-limit="-1" data-pagination-mode="none"><article class="post project-odd visible post-180 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail hentry dt_portfolio_category-prodotti dt_portfolio_category-5 description-off" data-name="Orologi" data-date="2022-03-21T15:11:14+01:00">
+
+<div class="post-thumbnail-wrap">
+	<div class="post-thumbnail">
+
+		
+		
+		<a href="https://www.nironigioielli.it/prodotto/orologi/" class="post-thumbnail-rollover layzr-bg layzr-bg" ><img loading="lazy" decoding="async" class="blog-thumb-lazy-load preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20508%20510&#39;%2F%3E" data-src="https://www.nironigioielli.it/wp-content/uploads/2022/03/orologi.png" data-srcset="https://www.nironigioielli.it/wp-content/uploads/2022/03/orologi.png 508w" alt="" title="orologi" width="508" height="510"  /></a>
+	</div>
+</div>
+
+
+<div class="post-entry-content">
+
+	<h3 class="entry-title">
+		<a href="https://www.nironigioielli.it/prodotto/orologi/" title="Orologi" rel="bookmark">Orologi</a>
+	</h3>
+
+	
+	<div class="entry-excerpt"><p>I migliori marchi di orologeria, unici per stile ed eleganza. </p>
+</div>
+	
+<a href="https://www.nironigioielli.it/prodotto/orologi/" class="dt-btn-s dt-btn post-details details-type-btn" aria-label="Read more about Orologi">Scopri<i class="dt-icon-the7-arrow-03" aria-hidden="true"></i></a>
+
+</div></article><article class="post project-even visible post-392 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail hentry dt_portfolio_category-prodotti dt_portfolio_category-5 description-off" data-name="Bracciali" data-date="2022-03-21T15:10:52+01:00">
+
+<div class="post-thumbnail-wrap">
+	<div class="post-thumbnail">
+
+		
+		
+		<a href="https://www.nironigioielli.it/prodotto/bracciali/" class="post-thumbnail-rollover layzr-bg layzr-bg" ><img loading="lazy" decoding="async" class="blog-thumb-lazy-load preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20508%20510&#39;%2F%3E" data-src="https://www.nironigioielli.it/wp-content/uploads/2022/03/bracciali.png" data-srcset="https://www.nironigioielli.it/wp-content/uploads/2022/03/bracciali.png 508w" alt="" title="bracciali" width="508" height="510"  /></a>
+	</div>
+</div>
+
+
+<div class="post-entry-content">
+
+	<h3 class="entry-title">
+		<a href="https://www.nironigioielli.it/prodotto/bracciali/" title="Bracciali" rel="bookmark">Bracciali</a>
+	</h3>
+
+	
+	<div class="entry-excerpt"><p>Gioielli dallo stile inconfondibile e di altissima qualità. </p>
+</div>
+	
+<a href="https://www.nironigioielli.it/prodotto/bracciali/" class="dt-btn-s dt-btn post-details details-type-btn" aria-label="Read more about Bracciali">Scopri<i class="dt-icon-the7-arrow-03" aria-hidden="true"></i></a>
+
+</div></article><article class="post project-odd visible post-403 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail hentry dt_portfolio_category-prodotti dt_portfolio_category-5 description-off" data-name="Collane" data-date="2022-03-21T15:09:00+01:00">
+
+<div class="post-thumbnail-wrap">
+	<div class="post-thumbnail">
+
+		
+		
+		<a href="https://www.nironigioielli.it/prodotto/collane/" class="post-thumbnail-rollover layzr-bg layzr-bg" ><img loading="lazy" decoding="async" class="blog-thumb-lazy-load preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20508%20504&#39;%2F%3E" data-src="https://www.nironigioielli.it/wp-content/uploads/2022/03/collane.png" data-srcset="https://www.nironigioielli.it/wp-content/uploads/2022/03/collane.png 508w" alt="" title="collane" width="508" height="504"  /></a>
+	</div>
+</div>
+
+
+<div class="post-entry-content">
+
+	<h3 class="entry-title">
+		<a href="https://www.nironigioielli.it/prodotto/collane/" title="Collane" rel="bookmark">Collane</a>
+	</h3>
+
+	
+	<div class="entry-excerpt"><p>Linee sinuose per i design più raffinati e ricercati. </p>
+</div>
+	
+<a href="https://www.nironigioielli.it/prodotto/collane/" class="dt-btn-s dt-btn post-details details-type-btn" aria-label="Read more about Collane">Scopri<i class="dt-icon-the7-arrow-03" aria-hidden="true"></i></a>
+
+</div></article><article class="post project-even visible post-407 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail hentry dt_portfolio_category-prodotti dt_portfolio_category-5 description-off" data-name="Orecchini" data-date="2022-03-21T15:08:09+01:00">
+
+<div class="post-thumbnail-wrap">
+	<div class="post-thumbnail">
+
+		
+		
+		<a href="https://www.nironigioielli.it/prodotto/orecchini/" class="post-thumbnail-rollover layzr-bg layzr-bg" ><img loading="lazy" decoding="async" class="blog-thumb-lazy-load preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20534%20530&#39;%2F%3E" data-src="https://www.nironigioielli.it/wp-content/uploads/2022/03/orecchini.png" data-srcset="https://www.nironigioielli.it/wp-content/uploads/2022/03/orecchini.png 534w" alt="" title="orecchini" width="534" height="530"  /></a>
+	</div>
+</div>
+
+
+<div class="post-entry-content">
+
+	<h3 class="entry-title">
+		<a href="https://www.nironigioielli.it/prodotto/orecchini/" title="Orecchini" rel="bookmark">Orecchini</a>
+	</h3>
+
+	
+	<div class="entry-excerpt"><p>Forme raffinate che illuminano gli angoli volto. </p>
+</div>
+	
+<a href="https://www.nironigioielli.it/prodotto/orecchini/" class="dt-btn-s dt-btn post-details details-type-btn" aria-label="Read more about Orecchini">Scopri<i class="dt-icon-the7-arrow-03" aria-hidden="true"></i></a>
+
+</div></article><article class="post project-odd visible post-410 dt_portfolio type-dt_portfolio status-publish has-post-thumbnail hentry dt_portfolio_category-prodotti dt_portfolio_category-5 description-off" data-name="Anelli" data-date="2022-03-21T15:07:50+01:00">
+
+<div class="post-thumbnail-wrap">
+	<div class="post-thumbnail">
+
+		
+		
+		<a href="https://www.nironigioielli.it/prodotto/anelli/" class="post-thumbnail-rollover layzr-bg layzr-bg" ><img loading="lazy" decoding="async" class="blog-thumb-lazy-load preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20508%20504&#39;%2F%3E" data-src="https://www.nironigioielli.it/wp-content/uploads/2022/03/anelli.png" data-srcset="https://www.nironigioielli.it/wp-content/uploads/2022/03/anelli.png 508w" alt="" title="anelli" width="508" height="504"  /></a>
+	</div>
+</div>
+
+
+<div class="post-entry-content">
+
+	<h3 class="entry-title">
+		<a href="https://www.nironigioielli.it/prodotto/anelli/" title="Anelli" rel="bookmark">Anelli</a>
+	</h3>
+
+	
+	<div class="entry-excerpt"><p>Emozioni uniche armonizzate in metalli e pietre preziose. </p>
+</div>
+	
+<a href="https://www.nironigioielli.it/prodotto/anelli/" class="dt-btn-s dt-btn post-details details-type-btn" aria-label="Read more about Anelli">Scopri<i class="dt-icon-the7-arrow-03" aria-hidden="true"></i></a>
+
+</div></article></div>[/vc_column][/vc_row][/vc_section]</p>
