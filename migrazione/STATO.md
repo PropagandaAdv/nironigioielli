@@ -10,3 +10,10 @@ Variabili globali: nironi-oro/nero/bianco/grigio-chiaro, font-titoli (Lexend Zet
 
 Limiti: SVG non caricabili (convertiti in PNG); nessun plugin SEO (meta in inventario/*.json); widget Menu V3 con colori non collegati alle variabili;
 cookie banner Cookiebot e carousel non migrati; LiteSpeed non attivo.
+
+## Fase restyling + e-commerce (12/11/2026)
+Backup UpdraftPlus prima dei lavori: id 20b4e3e7d2321835. Design: Cormorant Garamond (titoli) + Jost (testi), classi globali nl-*, variabili nironi-*.
+Pagine: home 51, chi-siamo 88, servizi 90, prodotti 92 (directory brand), contatti 94, il-progetto 96, privacy 98, spedizioni 170, resi 172, termini 174 (segnaposto), carrello 121, pagamento 122, mio-account 123.
+Header 49 (logo sx, menu centro, CTA "Contattaci" dx, icona carrello), footer 50 (colonna Acquisti + "Powered by Propaganda Adv").
+WooCommerce: brand nativi (Brand Demo 1/2), attributi Genere/Materiale/Taglia, 7 prodotti DEMO in bozza. Documenti cliente in ecommerce/.
+Aperti: impostazioni WooCommerce non scrivibili dal connettore (prezzi IVA inclusa, coming soon, pagamenti), utente Shop Manager, filtri, template Elementor archivio/prodotto singolo, test flusso acquisto.
