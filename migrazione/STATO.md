@@ -17,3 +17,9 @@ Pagine: home 51, chi-siamo 88, servizi 90, prodotti 92 (directory brand), contat
 Header 49 (logo sx, menu centro, CTA "Contattaci" dx, icona carrello), footer 50 (colonna Acquisti + "Powered by Propaganda Adv").
 WooCommerce: brand nativi (Brand Demo 1/2), attributi Genere/Materiale/Taglia, 7 prodotti DEMO in bozza. Documenti cliente in ecommerce/.
 Aperti: impostazioni WooCommerce non scrivibili dal connettore (prezzi IVA inclusa, coming soon, pagamenti), utente Shop Manager, filtri, template Elementor archivio/prodotto singolo, test flusso acquisto.
+
+## Test flusso e-commerce (12/11/2026, negozio Live)
+Percorso: /prodotti/ -> brand-demo-1 -> prodotto -> aggiungi al carrello -> carrello -> pagamento. OK fino al pagamento.
+Blocchi: (1) nessun metodo di pagamento attivo (checkout: "Non sono disponibili metodi di pagamento") -> ordine non completato;
+(2) pagine brand e prodotto singolo usano il template del tema (header/footer Twenty Twenty-Five, non quelli Elementor) e danno l'errore JS "elementorFrontendConfig is not defined".
+Prodotto di prova 144 pubblicato solo per il test e rimesso in bozza. Nessun ordine creato. Screenshot in migrazione/screenshot/test-flusso/.
