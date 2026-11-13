@@ -30,3 +30,16 @@
 
 ## 5. Cosa manca (a cura del cliente)
 Elenco brand definitivo e loghi · filtri per ogni brand · testi di spedizioni, resi e termini di acquisto (da validare legalmente) · dati per i pagamenti · prodotti.
+
+## 6. Scheda prodotto: foto, misure, incisione, parure, badge (aggiornamento)
+**Foto della galleria nell'ordine giusto.** La *Immagine del prodotto* è la foto grande iniziale (proporzione consigliata 4:5, verticale). Le foto in *Galleria prodotto* compaiono come miniature nell'ordine in cui le trascini: metti per prime le più belle (primo piano, poi indossato, poi dettaglio). Trascina le miniature per riordinarle.
+
+**Attributi già pronti (si selezionano, non si riscrivono).** In *Dati prodotto → Attributi* scegli dall'elenco: **Misura, Metallo, Pietra, Caratura, Colore/Purezza, Produzione** (oltre a Genere, Materiale, Taglia). Clicca "Aggiungi esistente", scegli i valori; se manca un valore, "Crea valore". Spunta "Visibile nella pagina del prodotto": gli attributi visibili diventano la tabella "Specifiche tecniche".
+
+**Varianti / misure (anelli).** Imposta il prodotto come *Prodotto variabile*, nella scheda *Attributi* aggiungi **Misura**, spunta "Usato per le varianti", poi nella scheda *Varianti* scegli "Crea varianti da tutti gli attributi" e imposta il prezzo di ogni misura. Esempio già pronto: prodotto "PRODOTTO DI PROVA - Anello variabile" (bozza).
+
+**Incisione.** [DA CONFERMARE CON IL CLIENTE: gratuita o a pagamento] Il campo "Incisione" (max 20 caratteri) richiede un plugin di add-on prodotto: non ancora installato (vedi report). Fino ad allora l'incisione si concorda nelle note dell'ordine.
+
+**Completa la tua parure (upsell).** Nella scheda *Prodotti collegati* di ogni prodotto, in "Vendite incrociate" / "Upsell" cerca e aggiungi i gioielli abbinati (fino a 4). Se lasci vuoto, il sito mostra prodotti della stessa categoria.
+
+**Badge ("Novità", "Esclusiva", "Offerta").** Il badge compare solo se il prodotto ha l'etichetta (Tag prodotto, es. "Novità", "Esclusiva") oppure un prezzo in offerta. Nessun badge = nessuna etichetta e nessuna offerta.

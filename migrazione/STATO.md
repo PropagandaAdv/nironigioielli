@@ -23,3 +23,9 @@ Percorso: /prodotti/ -> brand-demo-1 -> prodotto -> aggiungi al carrello -> carr
 Blocchi: (1) nessun metodo di pagamento attivo (checkout: "Non sono disponibili metodi di pagamento") -> ordine non completato;
 (2) pagine brand e prodotto singolo usano il template del tema (header/footer Twenty Twenty-Five, non quelli Elementor) e danno l'errore JS "elementorFrontendConfig is not defined".
 Prodotto di prova 144 pubblicato solo per il test e rimesso in bozza. Nessun ordine creato. Screenshot in migrazione/screenshot/test-flusso/.
+
+## Fase scheda prodotto / header-footer (13/11/2026)
+- Header 49: trasparente sulla home in cima, solido #383838 dopo scroll (CSS kit post 8, animation-timeline: scroll), sticky. Verificato desktop/tablet/mobile (screenshot in screenshot/scheda-prodotto/header-*-top.png). Icone Cerca e Carrello presenti.
+- Attributi globali creati: Misura (4), Metallo (5), Pietra (6), Caratura (7), Colore/Purezza (8), Produzione (9). Termini Misura 12/14/16 (id 36-38).
+- Prodotto variabile di prova: id 223 (bozza), 3 varianti (224-226) a prezzo 100 di prova.
+- NON fatti (connettore instabile/senza widget): template Single Product definitivo, popup misure, barra annunci, plugin swatches/incisione/wishlist, restyle archivi/carrello. Vedi report.
