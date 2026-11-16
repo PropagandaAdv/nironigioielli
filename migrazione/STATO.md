@@ -29,3 +29,8 @@ Prodotto di prova 144 pubblicato solo per il test e rimesso in bozza. Nessun ord
 - Attributi globali creati: Misura (4), Metallo (5), Pietra (6), Caratura (7), Colore/Purezza (8), Produzione (9). Termini Misura 12/14/16 (id 36-38).
 - Prodotto variabile di prova: id 223 (bozza), 3 varianti (224-226) a prezzo 100 di prova.
 - NON fatti (connettore instabile/senza widget): template Single Product definitivo, popup misure, barra annunci, plugin swatches/incisione/wishlist, restyle archivi/carrello. Vedi report.
+
+## 16/11/2026 - parti senza widget Woo mancanti
+- Plugin ora presenti: Variation Swatches (attivo), WooCommerce Custom Product Addons Free (INSTALLATO MA NON ATTIVO), ACF non installato.
+- Creati (tutti in bozza, senza condizioni = disattivati): 227 "Garanzie 2x2 (riutilizzabile)" (sezione, testi [DA CONFERMARE]), 228 popup "Guida alle misure" (segnaposto), 229 "Barra annunci (disattivata)".
+- Da fare a mano nell'editor (widget non esposti al connettore): Prezzo, Breadcrumb, Tab dati, Correlati nel template 207; inserire la sezione 227 (Template) nel 207; agganciare il popup 228 al link "Guida alle misure".
