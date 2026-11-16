@@ -40,3 +40,10 @@ Prodotto di prova 144 pubblicato solo per il test e rimesso in bozza. Nessun ord
 - Kit CSS (post 8, pubblicato): avvisi Woo, pulsanti, campi, card prodotto 4:5 con hover, "IVA inclusa" accanto al prezzo prodotto, swatches misure.
 - Verifica Playwright: home header trasparente (desk/mobile); carrello, pagamento, account header solido, nessun overflow a 375px. /negozio/ usa ancora il tema (errore JS elementorFrontendConfig).
 - Aperto: icona hamburger mobile appare come riquadro scuro; flusso con incisione non testato (addon non attivo).
+
+## 16/11/2026 - template scheda prodotto pubblicato
+- Scoperta: il metodo "raw" di elementor_add_widget accetta widget V3 non elencati dal connettore (prezzo, breadcrumb, tab dati, upsell, correlati, rating, meta, template). I V3 non sono spostabili/eliminabili con manage-elements: vanno inseriti gia' al posto giusto (usando container V3 come genitori).
+- Nuovo template prodotto 241 "Scheda prodotto Nironi" PUBBLICATO, condizione include/product. Contiene: breadcrumb, galleria | titolo (h1), valutazione, meta/SKU, prezzo (+IVA inclusa via CSS kit), descrizione breve, selettore misure (swatches), aggiungi al carrello, "Prenota una prova in boutique" (-> /contatti/), garanzie 2x2 (227, pubblicato), tab Descrizione/Informazioni aggiuntive/Recensioni, "Completa la tua parure" (upsell + correlati). Il vecchio 207 resta bozza (non usato).
+- Kit: colori e tipografia di sistema ora Nironi (antracite/oro, Cormorant/Jost).
+- Test: prodotto 223 pubblicato per lo screenshot e rimesso in bozza. Screenshot prodotto-desk/mob in screenshot/scheda-prodotto/.
+- Aperto: bottone aggiungi al carrello grigio, tab con stile di default, etichetta brand assente, titolo sezione parure sopra widget vuoti se nessun upsell/correlato, incisione (addon non attivo), archivi/negozio ancora tema.
