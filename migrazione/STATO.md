@@ -34,3 +34,9 @@ Prodotto di prova 144 pubblicato solo per il test e rimesso in bozza. Nessun ord
 - Plugin ora presenti: Variation Swatches (attivo), WooCommerce Custom Product Addons Free (INSTALLATO MA NON ATTIVO), ACF non installato.
 - Creati (tutti in bozza, senza condizioni = disattivati): 227 "Garanzie 2x2 (riutilizzabile)" (sezione, testi [DA CONFERMARE]), 228 popup "Guida alle misure" (segnaposto), 229 "Barra annunci (disattivata)".
 - Da fare a mano nell'editor (widget non esposti al connettore): Prezzo, Breadcrumb, Tab dati, Correlati nel template 207; inserire la sezione 227 (Template) nel 207; agganciare il popup 228 al link "Guida alle misure".
+
+## 16/11/2026 - stile shop e verifica
+- Template 207: titolo, brand, descrizione breve con font/colori del sito (resta BOZZA, senza prezzo).
+- Kit CSS (post 8, pubblicato): avvisi Woo, pulsanti, campi, card prodotto 4:5 con hover, "IVA inclusa" accanto al prezzo prodotto, swatches misure.
+- Verifica Playwright: home header trasparente (desk/mobile); carrello, pagamento, account header solido, nessun overflow a 375px. /negozio/ usa ancora il tema (errore JS elementorFrontendConfig).
+- Aperto: icona hamburger mobile appare come riquadro scuro; flusso con incisione non testato (addon non attivo).
